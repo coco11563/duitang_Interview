@@ -3,6 +3,8 @@ import org.junit.Before;
 import org.junit.Test;
 import pub.sha0w.model.CommaArray;
 
+import static com.sun.xml.internal.ws.dump.LoggingDumpTube.Position.Before;
+
 /**
  * Created by coco1 on 2017/2/16.
  * 10:13通过测试

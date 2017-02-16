@@ -4,6 +4,7 @@ import pub.sha0w.util.CastUtil;
 
 /**
  * Created by coco1 on 2017/2/16.
+ * 一个简单的数组model
  */
 public class CommaArray {
     private int[] stor;

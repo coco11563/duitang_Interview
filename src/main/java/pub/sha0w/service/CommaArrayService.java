@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 /**
  * Created by coco1 on 2017/2/16.
+ * 用以处理前台发回的
  */
 public class CommaArrayService {
     public static int Service(Object object) {
